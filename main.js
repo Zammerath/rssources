@@ -47,4 +47,5 @@ function rellenarCategorias(data){
 window.onload=function(){
     //pedirCategorias();
     pedirFeed();
+    alert("A Juanfri le mola el sado");
 };
